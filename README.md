@@ -2,6 +2,8 @@
 
 > ## 🏆 Built for the Qloo Hackathon 
 > ### This project was created for the [Qloo Hackathon](https://qloo-hackathon.devpost.com/)
+>
+> This repo is the combination of both repositories listed below. If you want to follow the commmit histories of the webapp and slack bot, please follow the URLs listed.
 > 
 > **Main Repositories:**
 > - 🌐 **Web Application**: [github.com/ferran9908/OnBloom-WebApp](https://github.com/ferran9908/OnBloom-WebApp)
